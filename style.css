@@ -1,0 +1,38 @@
+.registrar, .iniciar {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 100%;
+    max-width: 800px;
+    background-color: rgba(245, 245, 245, 0.4);
+    padding: 2rem;
+    border: 5px solid black;
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /*BR ENTRE INPUTS TODOS*/
+}
+
+/* .registrar h2 {
+    text-align: center;
+} */
+
+h2 {
+    text-align: center;
+}
+
+.registrar input, .iniciar input  {
+    padding: 1rem;
+    border: none;
+    outline-color: red; /*CONTONOR DE INPUT*/
+
+}
+
+.registrar button, .iniciar button {
+    padding: 1rem;
+    width: 20%;
+    background: transparent;
+    border: 2px solid greenyellow;
+    color: greenyellow;
+    font-weight: 600;
+    font-size: 18px;
+    cursor: pointer; /*estetica para que salga la manita al pasar por encima del boton*/
+}

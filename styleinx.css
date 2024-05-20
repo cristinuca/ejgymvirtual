@@ -1,0 +1,14 @@
+
+
+.body {
+  font-family: 'Lato', sans-serif;
+
+  background-image: url('img/fondo.jpeg'); /* Reemplaza 'ruta/de/tu/imagen.jpg' con la ruta de tu imagen */
+  background-size: cover; /* Para q imagen cubra todo el fondo */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+
+}
+
+
+
+

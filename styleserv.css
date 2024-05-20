@@ -1,0 +1,73 @@
+
+
+#body2 {
+    font-family: 'Lato', sans-serif;
+  
+    background-image: url('img/servicio.jpeg'); /* Reemplaza 'ruta/de/tu/imagen.jpg' con la ruta de tu imagen */
+    background-size: cover; /* Para q imagen cubra todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+  
+  }
+
+
+
+
+
+
+
+
+/*
+
+*{
+box-sizing: border-;
+margin: 0;
+padding: 0;
+
+}
+*container{
+opacity: .3;
+}
+
+.emergente{
+
+width: 400px;
+height: 200px;
+position: fixed;
+background-color: rgb(192, 122, 17);
+top: 50%;
+margin-left: 200px;
+margin-top: 100px;
+border: 1px solid darkolivegreen;
+padding: 20px;
+text-align: center;
+box-shadow: 10px 10px 10px wheat;
+}
+
+
+.emergente p{
+    font-size: 24px;
+}
+
+
+.emergente .boton{
+font-size: 18px;
+padding: 10px;
+border: 1px solid pink;
+border-radius: 5px;
+display: inline-block;
+width: 150px;
+margin-top: 32px;
+box-shadow: 5px 5px 5px wheat;
+
+
+
+}
+
+.menor{background-color: antiquewhite;}
+.mayor{background-color: chartreuse;}
+.menor:hover{background-color: darkslategray;}
+.mayor:hover{background-color: dimgray;}
+
+
+*/
+
